@@ -1,0 +1,2 @@
+export GROQ_API_KEY=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
+streamlit run app.py
